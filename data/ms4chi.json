@@ -1,0 +1,42 @@
+[
+  {
+    "question": "a, b va c ketma-ket toq sonlar bo'lib, (1 + a^2)(1 + b^2)(1 + c^2) = 11/9 tenglik o'rinli bo'lsa, shu sonlar ichidan eng kichigini toping.",
+    "answer1": "A) 33",
+    "answer2": "B) 27",
+    "answer3": "C) 31",
+    "answer4": "D) 29",
+    "correct_answer": "B) 27"
+  },
+  {
+    "question": "x va y natural sonlar uchun x = 5y va EKUK(x,y) · EKUB(x,y) = 136 tenglik o'rinli bo'lsa, x+y ning qiymatini toping.",
+    "answer1": "A) 44",
+    "answer2": "B) 48",
+    "answer3": "C) 52",
+    "answer4": "D) 56",
+    "correct_answer": "B) 48"
+  },
+  {
+    "question": "Ifodani soddalashtiring: 9a/(3-a)^2 - 1 : (6/(a-3) + (9a^2 -9a)/(2^7 - a^3) + 9/(a^3 + 3a + 9))",
+    "answer1": "A) a-1",
+    "answer2": "B) a-1",
+    "answer3": "C) -1",
+    "answer4": "D) 1",
+    "correct_answer": "D) 1"
+  },
+  {
+    "question": "a va b musbat haqiqiy sonlar uchun ab + 1/a + 1/b = 4 tenglik o'rinli bo'lsa, a+b ning eng katta qiymatini toping.",
+    "answer1": "A) 1",
+    "answer2": "B) 5/3",
+    "answer3": "C) 4",
+    "answer4": "D) 5",
+    "correct_answer": "C) 4"
+  },
+  {
+    "question": "2^70 + 3^35 sonini 31 ga bo'lgandagi qoldiqni toping.",
+    "answer1": "A) 27",
+    "answer2": "B) 5",
+    "answer3": "C) 13",
+    "answer4": "D) 19",
+    "correct_answer": "A) 27"
+  }
+]

@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="uz">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Тест тизими</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- Boshlanish oynasi -->
+  <div class="card" id="start-screen">
+   <h2>
+  🔰 
+  <a href="https://t.me/akhmadjanov000" target="_blank" style="text-decoration: none; color: #007bff; font-weight: bold;">
+    ADMIN - @akhmadjanov000
+  </a>
+  <br><br>
+  ♻️ TEST TURINI TANLANG VA PASTDAN TESTNI BOSHLASH TUGMASINI BOSING
+.
+</h2>
+
+    <button class="test-btn" data-json="ms1chi.json">MS 1-SAVOL</button>
+    <button class="test-btn" data-json="ms2chi.json">MS 1-SAVOL</button>
+    <button class="test-btn" data-json="ms3chi.json">MS 2-SAVOL</button>
+    <button class="test-btn" data-json="ms4chi.json">MS 2-SAVOL</button>
+    <button class="test-btn" data-json="gibrithamshira1modul.json">MS 3-SAVOL</button>
+    <button class="test-btn" data-json="gibrithamshira2modul.json">MS 3-SAVOL</button>
+    <button class="test-btn" data-json="test6.json">MS 4-SAVOL</button>
+    <button class="test-btn" data-json="test6.json">MS 4-SAVOL</button>
+
+    <button class="test-btn" data-json="argos-akt1-dmed.json">MS 5-SAVOL</button>
+    <button class="test-btn" data-json="argos-akt2-dmed.json">MS 5-SAVOL</button>
+
+
+
+    <button id="start-btn">TESTNI BOSHLASH</button>
+  </div>
+
+  <!-- Test oynasi -->
+  <div class="card hidden" id="quiz-container">
+    <button id="back-btn">← Ortga</button>
+    <div class="top-bar">
+      <div class="timer"><span id="time">360</span> soniya</div>
+    </div>
+
+    <h2 id="question-text"></h2>
+    <div id="answers"></div>
+
+    <div class="bottom-fixed">
+      <button id="next-btn" class="hidden">Keyingi</button>
+      <div id="question-count"></div>
+    </div>
+  </div>
+
+<!-- MODAL OYNASI -->
+<div id="info-modal" class="modal hidden">
+  <div class="modal-content">
+    <span class="close-btn">&times;</span>
+    <p>
+      🧠 Bundan sifatli testlar uchun<br>
+      👉 <strong><a href="https://t.me/akhmadjanov000" target="_blank">@akhmadjanov000</a></strong> ga yozing.
+    </p>
+  </div>
+</div>
+
+
+  <script src="script.js"></script>
+</body>
+</html>

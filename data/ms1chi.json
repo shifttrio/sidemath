@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Agar a + b − c = 20 bo‘lsa, 200 − 5a − 5b + 5c ning qiymatini toping.",
+    "answer1": "100",
+    "answer2": "120",
+    "answer3": "150",
+    "answer4": "90",
+    "correct_answer": "100"
+  },
+  {
+    "question": "4a2b ko‘rinishidagi nechta son 44 ga qoldiqsiz bo‘linadi?",
+    "answer1": "1",
+    "answer2": "2",
+    "answer3": "3",
+    "answer4": "4",
+    "correct_answer": "2"
+  },
+  {
+    "question": "a, b, c raqamlar uchun abc < 891 tenglik o‘rinli bo‘lsa, a + b + c ning eng katta qiymatini toping.",
+    "answer1": "24",
+    "answer2": "23",
+    "answer3": "25",
+    "answer4": "26",
+    "correct_answer": "24"
+  },
+  {
+    "question": "O‘ngdan chapga va chapdan o‘ngga bir xil o‘qiladigan 3 xonali natural sonlar nechta?",
+    "answer1": "10",
+    "answer2": "81",
+    "answer3": "90",
+    "answer4": "110",
+    "correct_answer": "81"
+  },
+  {
+    "question": "Agar abcd + def = xyklm tenglik o‘rinli bo‘lsa, ax − xc + b ning qiymatini toping.",
+    "answer1": "9",
+    "answer2": "8",
+    "answer3": "10",
+    "answer4": "12",
+    "correct_answer": "10"
+  }
+]

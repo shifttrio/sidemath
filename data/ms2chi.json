@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Ketma-ket kelgan a, b, c tub sonlar yig‘indisi javoblarning qaysi biriga teng bo‘la olmaydi?",
+    "answer1": "15",
+    "answer2": "23",
+    "answer3": "31",
+    "answer4": "21",
+    "correct_answer": "23"
+  },
+  {
+    "question": "Besh xonali 2̅x̅78̅y̅ son 72 ga qoldiqsiz bo‘lsa, xy − 3y ni hisoblang.",
+    "answer1": "20",
+    "answer2": "15",
+    "answer3": "12",
+    "answer4": "10",
+    "correct_answer": "12"
+  },
+  {
+    "question": "Uch xonali a b̅5̅ soni bilan 5̅b̅a̅ sonlari orasidagi farq 198 bo‘lsa, a + b ning eng kichik qiymatini toping.",
+    "answer1": "14",
+    "answer2": "2",
+    "answer3": "3",
+    "answer4": "7",
+    "correct_answer": "3"
+  },
+  {
+    "question": "a, b, c natural sonlar uchun 29a + 30b + 31c = 366 tenglik o‘rinli bo‘lsa, 3a + 2b + c ni hisoblang.",
+    "answer1": "16",
+    "answer2": "17",
+    "answer3": "18",
+    "answer4": "20",
+    "correct_answer": "18"
+  },
+  {
+    "question": "a va b natural sonlar uchun 96·a² = b³ tenglik bajarilsa, a + b yig‘indining eng kichik qiymatini toping.",
+    "answer1": "13",
+    "answer2": "36",
+    "answer3": "18",
+    "answer4": "24",
+    "correct_answer": "18"
+  }
+]
